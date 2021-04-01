@@ -35,8 +35,6 @@ A link to the Tableau Dashboard [provided here.](https://public.tableau.com/prof
 
 ## Summary
 
-age
-specific bike id for repair
+Our two biggest take-away from this analysis was that New York City may have quite a few people who use Citibiike to commute to and from work based on the times that the bikes are used during the week, and the short nature of the duration of rides. This may be beacuse New York is a very densely packed, tourist city, and may not apply to Des Moines. Perhaps a study of another ciy, like Pittsburgh, with a population density of around 2500 people per square mile would be more valuable than a study of New York City, a population density of about 67,000 people per square mile. 
 
-
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+A few additional visualizations we would like to see done with the data available are a study of the ages of riders, in order to determine marketing strategies, and a reference to the most used bikes to allocate repair time and effort to the worn bikes. 
