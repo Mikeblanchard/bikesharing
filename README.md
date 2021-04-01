@@ -16,22 +16,22 @@ A link to the Tableau Dashboard [provided here.](https://public.tableau.com/prof
 &#8593; This first graphic shows the location of most used starting locations of Citibike, represented by larger, darker circles. &#8593;
 
 ![](https://github.com/Mikeblanchard/bikesharing/blob/main/Resources/bikeshare2.png)
-This next graphic displays bike use by day hour for the month of August, again illustrated by longer, darker lines. 
+&#8593; This next graphic displays bike use by day hour for the month of August, again illustrated by longer, darker lines. &#8593;
 
 ![](https://github.com/Mikeblanchard/bikesharing/blob/main/Resources/bikeshare3.png)
-This graphic shows the trip duration. There is a very high spike occuring around the 5 minute mark, which tapers off quickly and levels out around 45 minutes.
+&#8593; This graphic shows the trip duration. There is a very high spike occuring around the 5 minute mark, which tapers off quickly and levels out around 45 minutes. &#8593;
 
 ![](https://github.com/Mikeblanchard/bikesharing/blob/main/Resources/bikeshare4.png)
-Here we compare trip duration by gender. The shape of the graph is very simmilar for all genders.  
+&#8593; Here we compare trip duration by gender. The shape of the graph is very simmilar for all genders. &#8593;
 
 ![](https://github.com/Mikeblanchard/bikesharing/blob/main/Resources/bikeshare5.png)
-This graphic is a more in depth look at Citibike use by time and day of the week.
+&#8593; This graphic is a more in depth look at Citibike use by time and day of the week. &#8593;
 
 ![](https://github.com/Mikeblanchard/bikesharing/blob/main/Resources/bikeshare6.png)
-Expanding on the last graphic, this heatmap breaks the Citibike use down by gender. 
+&#8593; Expanding on the last graphic, this heatmap breaks the Citibike use down by gender. &#8593;
 
 ![](https://github.com/Mikeblanchard/bikesharing/blob/main/Resources/bikeshare7.png)
-This graphic displays the usage by gender between short-term customers and annual subscribers.
+&#8593; This graphic displays the usage by gender between short-term customers and annual subscribers. &#8593;
 
 ## Summary
 
